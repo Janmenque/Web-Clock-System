@@ -5,7 +5,7 @@ Thank you for Download Workday.
 Workday is a time clock application based on Laravel and PHP, designed for a time and attendance system, time tracking, employee time clock, and timekeeping application.
 
 If you have any question about Workday please feel free to contact with us. 
-If you need support, customization or feature request, you may email to us at official.codefactor@gmail.com
+If you need support, customization or feature request, you may email me at menquejanruwell22@gmail.com.
 
 ## System Requirements
 

@@ -37,4 +37,4 @@ Nginx or Apache (recommended) http server
 7. Use demo account for first time login. Use username: manager@example.com and password: demo12345. You may delete the demo manager and employee user account after creating a new manager type user.
 
 
-### If you need technical support or feature request, you may email to us at official.menquejanruwell22@gmail.com
+### If you need technical support or feature request, you may email me at menquejanruwell22@gmail.com.
